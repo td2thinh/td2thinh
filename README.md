@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IOT + IA Industrial 4.0 Application as a Fullstack Dev**
 
-- 👨‍💻 All of my projects are available at [Check my github out, portfolio site coming soon](Check my github out, portfolio site coming soon)
+- 👨‍💻 All of my projects are available at (Check my github out, portfolio site coming soon)
 
 - 📫 How to reach me **td2thinh@gmail.com**
 
