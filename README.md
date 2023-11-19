@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thinh</h1>
-<h3 align="center">Future Fullstack Web Developer currently studying in Lyon, France</h3>
+<h3 align="center">Future Fullstack Developer currently in Master at Sorbonne University/h3>
 
-- 🔭 I’m currently working on **IOT + IA Industrial 4.0 Application as a Fullstack Dev**
+- 🔭 I’m currently working on **My Portfolio Site**
 
 - 👨‍💻 All of my projects are available at (Check my github out, portfolio site coming soon)
 
