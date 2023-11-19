@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh</h1>
-<h3 align="center">Future Fullstack Developer currently in Master at Sorbonne University/h3>
+<h3 align="center">Future Fullstack Developer currently in Master at Sorbonne University </h3>
 
 - 🔭 I’m currently working on **My Portfolio Site**
 
