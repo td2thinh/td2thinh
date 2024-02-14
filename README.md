@@ -1,17 +1,58 @@
-<h1 align="center">Hi 👋, I'm Thinh</h1>
-<h3 align="center">Future Fullstack Developer currently in Master at Sorbonne University </h3>
+<h1 align="center">Hi, guys! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
-- 🔭 I’m currently working on **My Portfolio Site**
-
-- 👨‍💻 All of my projects are available at (Check my github out, portfolio site coming soon)
-
-- 📫 How to reach me **td2thinh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/td2thinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="td2thinh" height="30" width="40" /></a>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm td2thinh and I'm currently studying for a Master (Graduate) degree in Software Engineering at Sorbonne University.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=td2thinh&style=for-the-badge" />
+</p>
 
+<div align="center">
+<a href="https://github.com/td2thinh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:td2thinh@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&color=gray alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/td2thinh/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+
+### Languages
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/td2thinh)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/td2thinh)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/td2thinh)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/td2thinh)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/td2thinh)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/td2thinh)
+[![Haskell](https://img.shields.io/badge/haskell-black?style=for-the-badge&logo=haskell&logoColor=white)](https://github.com/td2thinh)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/td2thinh)
+
+### Technologies & Frameworks
+
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/td2thinh)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/td2thinh)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/td2thinh)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/td2thinh)
+[![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/td2thinh)
+[![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)](https://github.com/td2thinh)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/td2thinh)
+[![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger)](https://github.com/td2thinh)
+
+### Tools
+
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/td2thinh)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/td2thinh)
+[![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/td2thinh)
+
+### OS
+
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/td2thinh)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/td2thinh)
