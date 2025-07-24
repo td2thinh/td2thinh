@@ -30,7 +30,6 @@
   [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=lambda&hide_border=true" />](https://github.com/td2thinh/lambda)  [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=td2thinh.com&hide_border=true" />](https://github.com/td2thinh/td2thinh.com)
 </div>
     
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Techs I use in my work
 
@@ -59,7 +58,6 @@
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 
 <p align="center">
 
