@@ -50,6 +50,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/django/cba6f7" alt="Django" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+
 <img src="https://cdn.simpleicons.org/postgresql/cba6f7" alt="PostgreSQL" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb/cba6f7" alt="MongoDB" width="30" height="30" />
@@ -63,18 +71,17 @@
 <img src="https://cdn.simpleicons.org/kubernetes/cba6f7" alt="Kubernetes" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pycharm/cba6f7" alt="PyCharm" width="30" height="30" />
+
 </p>
-
-
 ## Let's Connect
 
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/gmail/cba6f7" alt="TypeScript" width="30" height="30" />
+<img src="./IconMail.svg" alt="Mail" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/logmein/cba6f7" alt="Linkedin" width="30" height="30" />
+<img src="./IconLinkedin.svg" alt="Linkedin" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/medium/cba6f7" alt="Blog" width="30" height="30" />
+<img src="" alt="Blog" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
