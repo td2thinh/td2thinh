@@ -81,6 +81,5 @@
 
 
 ---
-  <div align="center"><img src="https://komarev.com/ghpvc/?username=td2thinh&color=58A6FF&style=flat-square&label=Views" alt="Profile Views" /></div>
 
 <div align="center"><i>Thanks for visiting! Have a great day! 😊</i></div>
