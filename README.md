@@ -13,7 +13,7 @@
   <!-- Top row of stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=td2thinh&show_icons=true&theme=catppuccin_mocha&hide_border=true&card_width=300&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-rho-ebon.vercel.app?user=td2thinh&theme=catppuccin-mocha&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=300" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=td2thinh&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=400&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=td2thinh&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=600&langs_count=8" alt="Top Languages" />
   
   
 
