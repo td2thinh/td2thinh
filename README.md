@@ -1,4 +1,4 @@
-# Hi there, I'm td2thinh <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">
+## Hi there, I'm td2thinh <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">
 
 - Working at **[Callyope](https://www.callyope.com/)** 
 - Learning **Rust** 
@@ -6,7 +6,7 @@
 - Ask me anything 
 - I speak **English, Vietnamese, French**
 
-## Stats & Activity
+## Github stats
       
       
 <div align="center">
@@ -57,6 +57,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+
+## Techs I use in my work
 <p align="center">
 
 <img src="https://cdn.simpleicons.org/postgresql/cba6f7" alt="PostgreSQL" width="30" height="30" />
