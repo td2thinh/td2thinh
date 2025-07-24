@@ -81,7 +81,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./IconLinkedin.svg" alt="Linkedin" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="" alt="Blog" width="30" height="30" />
+<img src="./IconEdit.svg" alt="Blog" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
