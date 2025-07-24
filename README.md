@@ -32,6 +32,9 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+## Techs I use in my work
+
+
 <p align="center">
 <img src="https://cdn.simpleicons.org/typescript/cba6f7" alt="TypeScript" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,7 +61,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-## Techs I use in my work
 <p align="center">
 
 <img src="https://cdn.simpleicons.org/postgresql/cba6f7" alt="PostgreSQL" width="30" height="30" />
