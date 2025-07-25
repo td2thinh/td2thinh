@@ -1,6 +1,7 @@
 ## Hi there, I'm td2thinh <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">
 
-- Working at **[Callyope](https://www.callyope.com/)** 
+- Working at **[Callyope](https://www.callyope.com/)**
+- I write random stuff on [t2thinh is typing...](https://td2thinh.com/)
 - Learning **Rust** 
 - Open to **collaboration** 
 - Ask me anything 
