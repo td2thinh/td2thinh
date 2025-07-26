@@ -29,7 +29,7 @@
 <div align="center">
   
   [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=lambda&hide_border=true&card_width=300" />](https://github.com/td2thinh/lambda)  [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=td2thinh.com&hide_border=true&card_width=300" />](https://github.com/td2thinh/td2thinh.com)
-  [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=tpalt&hide_border=true&card_width=300" />](https://github.com/td2thinh/tpalt)  [<img src="" />](https://github.com/td2thinh/ProjOuv)
+  [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=tpalt&hide_border=true&card_width=300" />](https://github.com/td2thinh/tpalt)  [<img src="https://github-readme-stats.vercel.app/api/pin/?theme=catppuccin_mocha&username=td2thinh&repo=ProjOuv&hide_border=true&card_width=300" />](https://github.com/td2thinh/ProjOuv)
 </div>
     
 
