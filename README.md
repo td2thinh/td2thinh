@@ -6,7 +6,7 @@
 - Open to **collaboration** 
 - Ask me anything 
 - I speak **English, Vietnamese, French**
-
+<!-- 
 ## Github stats
       
       
@@ -19,7 +19,7 @@
   
 
 </div>
-
+ -->
 
 
 
